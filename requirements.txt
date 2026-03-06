@@ -1,0 +1,8 @@
+pandas
+plotly
+dash
+selenium
+beautifulsoup4
+pdfplumber
+requests
+webdriver-manager

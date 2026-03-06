@@ -1,0 +1,14 @@
+{
+    "headless": true,
+    "polite_delay_seconds": 0.4,
+
+    "wbc_start_url": "https://www.worldbeercup.org/winners/",
+    "max_wbc_pages": 16,
+    
+    "bjcp_start_url": "https://www.bjcp.org/style/2021/beer/",
+    "max_bjcp_pages": 200,
+
+    "obdb_api_base": "https://api.openbrewerydb.org/v1",
+    "obdb_max_pages": 500,
+    "obdb_per_page": 100
+}
