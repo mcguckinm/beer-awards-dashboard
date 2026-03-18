@@ -95,7 +95,7 @@ lesson14-beer-awards-dashboard
 ## HOW TO RUN PROJECT
 
 clone repository:
-git clone https://github.com/mcguckinm/beer_awards_dashboard.git
+git clone https://github.com/mcguckinm/beer-awards-dashboard.git
 
 move into the project directory
 
